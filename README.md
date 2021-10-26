@@ -1,5 +1,7 @@
 # Ascii_Array
 ## This script converts Strings utf-8 to its Ascii valued Array (JSO).
+### Obfuscate your html code online
+
 > Hosted @
 <a href="https://noisyboy.cf/jso">Ascii_Array</a><br/>  
 [![js](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=green&color=black)](js/sc.js)
@@ -10,4 +12,4 @@
 
 
 
-<img src="imgs/images (1).png" alt="JSO"/>
+<img align='center' src="imgs/images (1).png" alt="JSO"/>
